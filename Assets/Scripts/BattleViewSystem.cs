@@ -6,5 +6,6 @@ public class BattleViewSystem
     {
         // Initialization logic for the battle view system
         Debug.Log("BattleViewSystem initialized.");
+        Debug.Log("BattleViewSystem is ready to manage battle views.");
     }
 }
